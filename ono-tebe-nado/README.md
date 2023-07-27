@@ -1,1 +1,0 @@
-https://github.com/Vadim-Gaponenko/ono-tebe-nado
