@@ -283,15 +283,17 @@
   margin: 180px 50px 90px;
 }
 .footer__addres {
-  padding-top: 20px;
+  padding-top: 25px;
 }
 
 .footer__menu-list {
   text-align: center;
+  padding-bottom: 7px;
 }
 .footer__menu-list-item {
   list-style: none;
 }
+
 .footer__menu-link {
   color: #000;
   font-size: 18px;
@@ -303,6 +305,7 @@
   display: flex;
   justify-content: space-around;
   gap: 47px;
+  padding-bottom: 15px;
 }
 .footer__social-list-item {
   list-style: none;
