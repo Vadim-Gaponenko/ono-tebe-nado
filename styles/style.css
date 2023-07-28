@@ -7,7 +7,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 120%;
-  margin: 0 auto;
   padding: 0;
   box-sizing: border-box;
 }
@@ -17,14 +16,14 @@
 .header {
   display: flex;
   justify-content: space-between;
-  margin: 92px 50px 90px;
+  margin: 92px 50px 85px;
 }
 .header__menu {
   color: #000;
   font-size: 18px;
   font-weight: 400;
   line-height: normal;
-  margin: 43px 209px 45px 0;
+  margin: 43px 207px 45px 0;
 }
 .header__links-list {
   display: flex;
@@ -67,7 +66,7 @@
 
 .cover {
   background-image: url(../images/cover.jpg);
-  margin: 0 0 180px 0;
+  margin: 0px 0 180px 0;
   background-position: center;
   background-size: cover;
   min-height: 757px;
