@@ -48,6 +48,7 @@ html {
 }
 
 .content__list {
+  margin-top: 26px;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -90,9 +91,6 @@ html {
 }
 .content__accent {
   color: #545050;
-}
-.content__list {
-  margin-top: 26px;
 }
 
 .content__video-card-title {
@@ -146,7 +144,6 @@ html {
 }
 .search-form__label:focus {
   outline: none;
-  border: 1px solid #fff;
 }
 
 .search-form__checkbox-list {
@@ -174,7 +171,6 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox {
   background-color: transparent;
   color: #fff;
   border: 1px solid #fff;
-  font-family: inherit;
 }
 .search-form__submit-button {
   display: flex;
